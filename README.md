@@ -1,1 +1,2 @@
-# Welcome to your Dyad app
+# Metabolic Syndrome Medical Twin Integrated Platform
+
